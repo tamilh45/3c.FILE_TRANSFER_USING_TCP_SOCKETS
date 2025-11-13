@@ -59,7 +59,8 @@ while True:
 ```
 
 ## OUPUT
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f9b3c73e-e6b1-4ba4-ad22-31199926f753" />
+![Uploading image.png…]()
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
