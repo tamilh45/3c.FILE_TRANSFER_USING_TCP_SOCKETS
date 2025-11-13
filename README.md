@@ -59,7 +59,7 @@ while True:
 ```
 
 ## OUPUT
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/63b388ef-b45c-489c-9354-0ec174938402" />
 
 
 ## RESULT
